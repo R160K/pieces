@@ -1,0 +1,6 @@
+atproto
+flask
+
+#TEMPORARY:
+dotenv
+redis
