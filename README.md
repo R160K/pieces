@@ -1,6 +1,6 @@
 # Pieces
 
-This a, still nascent, attempt to create a modular, portable, (relatively) stateless social media website using existing protocols and infrastructure.
+This is a, still nascent, attempt to create a modular, portable, (relatively) stateless social media website using existing protocols and infrastructure.
 
 Right now, the project (barely) supports logging in with an existing atproto/Bluesky account. It will come to support atproto feeds, alongside chats -- likely using Matrix -- and rooms, which will in turn be made up of feeds, chats and widgets.
 
